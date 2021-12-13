@@ -1,12 +1,10 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="premium" value="true" />
+    <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="pristineConfig" value="false" />
-    <option name="rightTreeIndent" value="6" />
     <option name="accentColor" value="ff9800" />
     <option name="selectedTheme" value="DARKER" />
-    <option name="userId" value="-7df4d91b:17b87e09a28:-7fff" />
-    <option name="version" value="6.8.2" />
+    <option name="userId" value="34f473f2:17db5cda152:-8000" />
+    <option name="version" value="6.10.1" />
   </component>
 </application>
