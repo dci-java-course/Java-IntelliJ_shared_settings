@@ -1,11 +1,10 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="selectAutopopupSuggestionsByChars" value="true" />
+    <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="JAVADOC_INFO_DELAY" value="100" />
+    <option name="SELECT_AUTOPOPUP_SUGGESTIONS_BY_CHARS" value="true" />
     <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="15" />
-    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
-    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
   </component>
   <component name="TodoConfiguration">
     <pattern pattern="\btodo\b.*" />
