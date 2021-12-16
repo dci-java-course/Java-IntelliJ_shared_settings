@@ -1,7 +1,4 @@
 <application>
-  <component name="LangManager">
-    <option name="languageName" value="JAVA" />
-  </component>
   <component name="LessonStateBase">
     <option name="map">
       <map>
@@ -9,6 +6,7 @@
         <entry key="basic completion" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="codeassistance.editorcodingassistance" value="NOT_PASSED" />
+        <entry key="codeassistance.localhistory" value="NOT_PASSED" />
         <entry key="codeassistance.parameterinfo" value="NOT_PASSED" />
         <entry key="codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="collapse" value="NOT_PASSED" />
