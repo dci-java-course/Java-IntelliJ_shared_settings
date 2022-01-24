@@ -6,9 +6,13 @@
           <option name="url" value="https://github.com/dci-dh-java-e21-01/FileSearcher.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/koushikkothagal/spring-security-jpa.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/src" />
+    <option name="cloneParentDir" value="$USER_HOME$/Downloads/Draft" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
