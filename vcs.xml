@@ -14,9 +14,25 @@
           <option name="url" value="https://github.com/amigoscode/login-registration-backend.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MiguelSilva23/StudentManagement.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Parisamazinanian/EMS_JAvAAssessment.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/KlausGrosser/HospitalManager.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/agakrowinska/AssessmentJavaBasicsAga070220222.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Downloads/Draft" />
+    <option name="cloneParentDir" value="$USER_HOME$/src/JavaBasicsStudentPeojects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
