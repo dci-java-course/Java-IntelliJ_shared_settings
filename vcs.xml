@@ -30,9 +30,13 @@
           <option name="url" value="https://github.com/agakrowinska/AssessmentJavaBasicsAga070220222.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dci-j23-e02/day4_java.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/src/JavaBasicsStudentPeojects" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/DCI_Java" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
