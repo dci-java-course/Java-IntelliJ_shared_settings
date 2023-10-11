@@ -44,7 +44,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/DCI_Java" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/DCI_Java/exercises" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
