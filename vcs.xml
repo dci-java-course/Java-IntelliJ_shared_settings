@@ -70,6 +70,10 @@
           <option name="url" value="https://github.com/dci-j23-e02/day11_java.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/dci-j23-e02/for_loops.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/DCI_Java" />
