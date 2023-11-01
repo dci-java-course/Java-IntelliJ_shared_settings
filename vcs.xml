@@ -90,9 +90,13 @@
           <option name="url" value="https://github.com/freelancers2/bookstore-inventory-management-system-safwan-kher.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/freelancers2/Collections.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Documents/Alsahaba/MDB/Exercises" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/Alsahaba/MDB" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
